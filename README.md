@@ -27,13 +27,13 @@ Este projeto tem como foco a análise de dados abertos do PROCON, com a finalida
 
 ### Dashboard do projeto
 
-![Dashboard PROCON](./Captura%20de%20tela%202026-10-02%20145932.png)
+<img src="https://raw.githubusercontent.com/Mandita01/Fonte_de_Inform-o_e_Banco_de_Dados/main/Captura%20de%20tela%202026-10-02%20145932.png" alt="Dashboard PROCON" width="1000" />
 
 ### Visualizações do dashboard
 
-<img src="./Captura%20de%20tela%202026-10-02%20145822.png" alt="Dashboard PROCON - visualização 1" width="900" />
+<img src="https://raw.githubusercontent.com/Mandita01/Fonte_de_Inform-o_e_Banco_de_Dados/main/Captura%20de%20tela%202026-10-02%20145822.png" alt="Dashboard PROCON - visualização 1" width="900" />
 
-<img src="./Captura%20de%20tela%202026-09-30%20155933.png" alt="Dashboard PROCON - visualização 2" width="900" />
+<img src="https://raw.githubusercontent.com/Mandita01/Fonte_de_Inform-o_e_Banco_de_Dados/main/Captura%20de%20tela%202026-09-30%20155933.png" alt="Dashboard PROCON - visualização 2" width="900" />
 
 https://raw.githubusercontent.com/Mandita01/Fonte_de_Inform-o_e_Banco_de_Dados/main/Procon-Dadosdenuncia.xlsx
 
