@@ -1,58 +1,47 @@
 # Fonte_de_Informação_e_Banco_de_Dados
 
-## 🎨 Projeto no Canva
+Este repositório reúne materiais, imagens e dados de projetos de análise de informações públicas, com foco em visualização e organização de dados abertos.
 
-Este slide apresenta um pouco sobre minha personalidade, meus interesses e meus sonhos de viagem. 🌎✈️  
-Foi criado no Canva como uma forma criativa de representar lugares que desejo conhecer e experiências que pretendo viver no futuro.
+## 📊 Projeto PROCON
 
-<img width="1217" height="684" alt="Projeto Canva" src="https://github.com/user-attachments/assets/34e02fa3-1a3d-4f51-95c6-f5870207d21f" />
-
-Atividades desenvolvidas durante o 1º semestre da Faculdade de GPI - FATEC-SJC.
-
----
-
-## 📊 Análise de Dados Abertos por meio de Dashboard
-
-Este projeto tem como foco a análise de dados abertos do PROCON, com a finalidade de identificar padrões, tendências e informações relevantes sobre denúncias e conflitos de consumo.
+O repositório também contém uma análise de dados abertos do PROCON, com foco em identificar padrões, tendências e informações relevantes sobre denúncias e conflitos de consumo.
 
 ### Objetivo
 - Explorar e organizar os dados do PROCON;
-- Visualizar informações importantes em um dashboard;
+- Visualizar informações importantes em dashboard;
 - Identificar regiões, categorias e recorrências nas denúncias;
 - Transformar dados brutos em indicadores úteis para análise.
 
 ### Fonte dos dados
 - Arquivo principal: `Procon-Dadosdenuncia.xlsx`
-- Os dados foram organizados para permitir análise de indicadores sobre reclamações de consumo.
 
 ### Dashboard do projeto
 
 <img src="https://raw.githubusercontent.com/Mandita01/Fonte_de_Inform-o_e_Banco_de_Dados/main/Captura%20de%20tela%202026-10-02%20145932.png" alt="Dashboard PROCON" width="1000" />
 
-### Visualizações do dashboard
-
-<img src="https://raw.githubusercontent.com/Mandita01/Fonte_de_Inform-o_e_Banco_de_Dados/main/Captura%20de%20tela%202026-10-02%20145822.png" alt="Dashboard PROCON - visualização 1" width="900" />
-
-<img src="https://raw.githubusercontent.com/Mandita01/Fonte_de_Inform-o_e_Banco_de_Dados/main/Captura%20de%20tela%202026-09-30%20155933.png" alt="Dashboard PROCON - visualização 2" width="900" />
-
-https://raw.githubusercontent.com/Mandita01/Fonte_de_Inform-o_e_Banco_de_Dados/main/Procon-Dadosdenuncia.xlsx
-
-### Informações principais
-- Tipo de análise: dados abertos
-- Tema: proteção ao consumidor
-- Ferramenta de visualização: dashboard
-- Contexto acadêmico: GPI / FATEC-SJC
-
 ### Estrutura do repositório
-- `README.md` — documentação do projeto
+- `README.md` — documentação geral do projeto
 - `Procon-Dadosdenuncia.xlsx` — base de dados do PROCON
 - `Captura de tela ...png` — imagens do dashboard e evolução do projeto
+- `dados_petrobras_gas/` — dados e documentação de análise sobre Petrobras e gás natural
 
-### Observação
-O projeto foi desenvolvido para demonstrar como a análise de dados pode transformar informações do PROCON em uma visão mais clara e objetiva, facilitando a interpretação de tendências e comportamentos.
+---
+
+## 🛢️ Dados de Petrobras e Gás Natural
+
+Nesta pasta foi incluída uma análise complementar sobre adesão ao decreto e dados do anuário estatístico da ANP:
+
+- `dados_petrobras_gas/README.md` — documentação dos gráficos e dados;
+- `dados_petrobras_gas/adesao_decreto_1563_95.csv` — base de adesões ao decreto;
+- `dados_petrobras_gas/anuario_estatistico_anp.csv` — dados do anuário estatístico da ANP.
+
+### Conteúdo principal
+- Gráfico de adesão ao decreto 1563_95 por data;
+- Comparativo de quantidade de recursos, reusos e downloads por ano;
+- Base em CSV para análise e reprodução.
 
 ---
 
 ## 🧾 Resumo em uma frase
 
-Projeto de análise e organização dos dados do PROCON com foco em dashboard e visualização de informações relevantes sobre denúncias de consumo.
+Projeto de análise e organização de dados públicos, com foco em dashboard do PROCON e em dados complementares sobre Petrobras e gás natural.
