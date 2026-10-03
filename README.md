@@ -29,6 +29,8 @@ Este projeto tem como foco a análise de dados abertos do PROCON, com a finalida
 
 ![Dashboard PROCON](./Captura%20de%20tela%202026-10-02%20145932.png)
 
+https://raw.githubusercontent.com/Mandita01/Fonte_de_Inform-o_e_Banco_de_Dados/main/Procon-Dadosdenuncia.xlsx
+
 ### Informações principais
 - Tipo de análise: dados abertos
 - Tema: proteção ao consumidor
